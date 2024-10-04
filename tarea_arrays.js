@@ -101,7 +101,7 @@ const libros = [350, 120, 540, 275, 390, 130, 670];
 const resultado = findMinMaxPages(libros);
 console.log(resultado); // -> [1, 6]
 
-/* // Exportar las funciones para que puedan ser completadas y probadas
+// Exportar las funciones para que puedan ser completadas y probadas
 module.exports = {
     procesarPedido,
     sumarPares,
@@ -109,4 +109,4 @@ module.exports = {
     buscaPalabras,
     findJavaScript,
     findMinMaxPages
-}; */
+}; 
